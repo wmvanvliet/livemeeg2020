@@ -1,3 +1,5 @@
+[![Talk at LiveMEEG2020](livemeeg2020.png)](https://youtu.be/OlxVhkuiGPU)
+
 # An example analysis pipeline that is well designed.
 
 This will do a very bare-bones analysis of the EEG evoked potentials in the Brain Invaders dataset:
