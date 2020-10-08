@@ -1,4 +1,4 @@
-[![Talk at LiveMEEG2020](livemeeg2020.png)](https://youtu.be/OlxVhkuiGPU)
+[![Talk at LiveMEEG2020](livemeeg2020_small.png)](https://youtu.be/OlxVhkuiGPU)
 
 # An example analysis pipeline that is well designed.
 
