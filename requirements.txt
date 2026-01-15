@@ -3,4 +3,4 @@ scipy>=0.19
 matplotlib>=1.5
 mne>=0.16
 doit>=0.30
-filename-templates>=1.0
+filename-templates>=1.3
