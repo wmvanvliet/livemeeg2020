@@ -69,7 +69,6 @@ fname = FileNames()
 # Some directories
 fname.add("data_dir", raw_data_dir)
 fname.add("processed", "{data_dir}/processed")
-fname.add("figures_dir", "./figures")
 
 # Original files.
 fname.add(
