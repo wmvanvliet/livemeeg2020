@@ -52,11 +52,6 @@ sample_rate = 512.0  # Hz
 fmin = 0.5  # Hz
 fmax = 30.0  # Hz
 
-# Epochs
-event_id = dict(nontarget=1, target=2)
-tmin, tmax = (-0.2, 1.0)
-baseline = (-0.2, 0)
-
 
 ###############################################################################
 # Templates for filenames
