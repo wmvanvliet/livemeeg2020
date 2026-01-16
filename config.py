@@ -81,14 +81,6 @@ fname.add("mat", "{data_dir}/subject_{subject:02d}.mat")
 
 # Processed files.
 fname.add("filtered", "{processed}/subject_{subject:02d}_filt_raw.fif", mkdir=True)
-fname.add("epochs", "{processed}/subject_{subject:02d}_epo.fif", mkdir=True)
-fname.add("evokeds", "{processed}/subject_{subject:02d}_ave.fif", mkdir=True)
-
-# Grand average analysis
-fname.add("ga_evokeds", "{processed}/grand_average_evokeds_ave.fif", mkdir=True)
-
-# Figures
-fname.add("figure_ga_evokeds", "{figures_dir}/ga_evokeds_ave.pdf", mkdir=True)
 
 # File produced by check_system.py
 fname.add("system_check", "./system_check.txt")
